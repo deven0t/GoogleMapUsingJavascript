@@ -12,3 +12,17 @@ body {
     margin: 0;
     padding: 0;
 }
+h2 
+{ 
+    display:inline; 
+    color: #698194
+}
+p.a {
+    display: inline;
+    color: #4e3f1d;
+}
+p.b {
+    display: inline;
+    text-transform: capitalize;
+    color: #7f8c14;
+}
